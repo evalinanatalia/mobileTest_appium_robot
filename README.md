@@ -1,6 +1,6 @@
 Mobile Test Automation using Appium robot framwork
 
-Apk nya bisa download disini https://apkpure.com/sample-android-app-login-test/com.loginmodule.learning
+You can download the apk here https://apkpure.com/sample-android-app-login-test/com.loginmodule.learning
 
 Getting element using appium :
 1. Launch Android Emulator
